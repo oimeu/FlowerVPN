@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">FlowerVPN </string>
-    <string name="textIsOff"> You are a offline to server, connect clicking in button: </string>
-    <string name="textIsOn"> You are a connected!! </string>
-
-</resources>
